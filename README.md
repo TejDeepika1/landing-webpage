@@ -12,7 +12,7 @@
   <header class="navbar">
     <div class="logo">🛒 Walmart</div>
     <input type="text" class="search-bar" placeholder="Search Walmart"/>
-    <div class="cart">🛍️ $0.00</div>
+    <div class="cart">🛍️ Rs 0.00</div>
   </header>
 
   <section class="location-bar">
@@ -32,7 +32,7 @@
   <main class="grid-container">
     <div class="card tech">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkbKRGbmbJL8Wr6rk-4O-7xx_sYpuufOyF-A&s" alt="College Tech" height="300" width="300">
-      <h3>College tech starting at $19.88</h3>
+      <h3>College tech starting at 19000.88</h3>
       <a href="#">Shop tech</a>
     </div>
 
@@ -51,7 +51,7 @@
 
     <div class="card supplies">
       <img src="https://static.vecteezy.com/system/resources/thumbnails/035/638/813/small/stationery-set-icons-book-notebook-ruler-knife-folder-pencil-pen-calculator-scissors-paint-tape-file-office-supply-school-office-and-education-equipment-illustration-flat-style-vector.jpg" alt="School Supplies" height="300" width="300">
-      <h3>School supplies from 25¢</h3>
+      <h3>School supplies from 250</h3>
       <p>In as fast as an hour*</p>
       <a href="#">Shop now</a>
     </div>
